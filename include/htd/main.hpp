@@ -193,6 +193,7 @@
 #include <htd/LimitMaximumIntroducedVertexCountOperation.hpp>
 #include <htd/MaximumCardinalitySearchOrderingAlgorithm.hpp>
 #include <htd/MinDegreeOrderingAlgorithm.hpp>
+#include <htd/MinDegreeTreeDecomposition.hpp>
 #include <htd/MinFillOrderingAlgorithm.hpp>
 #include <htd/MinimumSeparatorAlgorithm.hpp>
 #include <htd/MultiGraphFactory.hpp>
